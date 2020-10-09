@@ -10,12 +10,13 @@
   "author": "iSayme <isaymeorg@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@isayme/eslint-config": "^0.1.1",
-    "@isayme/prettier-config": "^0.1.0",
+    "@isayme/eslint-config": "^0.3.1",
+    "@isayme/prettier-config": "^0.1.1",
     "@typescript-eslint/eslint-plugin": "^4.2.0",
     "@typescript-eslint/parser": "^4.2.0",
     "eslint": "^7.9.0",
     "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.1.2",
     "typescript": "^4.0.3"
